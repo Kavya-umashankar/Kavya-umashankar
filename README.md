@@ -55,5 +55,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 :fire: My Stats :
+
 ![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavya-umashankar&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya-umashankar)](https://github.com/anuraghazra/github-readme-stats)
