@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 :woman_technologist: About Me : I am an avid coder and passionate about open-source development. Here, you will find a collection of my projects that showcase my skills in machine learning, data science, and software development. I believe in the power of collaboration and sharing knowledge, so feel free to explore my repositories, contribute, and provide feedback. Let's build innovative solutions together and make a positive impact in the world of technology.
 <br>
 <br>
+<h2> I work with: </h2>
 <div>
   <h4>Backend Programming Languages</h4>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -52,5 +53,8 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
-<hr>
+<br>
+:fire: My Stats :
+[![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavya-umashankar)](https://github.com/anuraghazra/github-readme-stats)
+
 
