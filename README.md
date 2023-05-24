@@ -12,15 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<hr>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   <h1 style="font-size: 90em; font-family: bradley hand, cursive">Welcome to my GitHub profile!   <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="25" height="25"/>
   </h1>
 </div>
-:woman_technologist: About Me : I am an avid coder and passionate about open-source development. Here, you will find a collection of my projects that showcase my skills in machine learning, data science, and software development. I believe in the power of collaboration and sharing knowledge, so feel free to explore my repositories, contribute, and provide feedback. Let's build innovative solutions together and make a positive impact in the world of technology.
-<br>
-<br>
+<div>
+:woman_technologist: About Me : 
+
+<br>I am an avid coder and passionate about open-source development. Here, you will find a collection of my projects that showcase my skills in machine learning, data science, and software development. I believe in the power of collaboration and sharing knowledge, so feel free to explore my repositories, contribute, and provide feedback. Let's build innovative solutions together and make a positive impact in the world of technology.
+</div>
 <h2> I work with: </h2>
 <div>
   <h4>Backend Programming Languages</h4>
@@ -54,8 +56,11 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 <br>
-:fire: My Stats :
+  <h2>:fire: My Stats :</h2>
+ <div>
 
 ![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavya-umashankar&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya-umashankar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<hr>
