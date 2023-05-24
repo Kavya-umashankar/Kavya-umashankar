@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <div>
 :woman_technologist: About Me : 
 
-<br>I am an avid coder and passionate about open-source development. Here, you will find a collection of my projects that showcase my skills in machine learning, data science, and software development. I believe in the power of collaboration and sharing knowledge, so feel free to explore my repositories, contribute, and provide feedback. Let's build innovative solutions together and make a positive impact in the world of technology.
+<br>I am an avid coder and passionate about open-source development. Here, you will find a collection of my projects that showcase my skills in machine learning, deep learning, data science, and software development. I believe in the power of collaboration and sharing knowledge, so feel free to explore my repositories, contribute, and provide feedback. Let's build innovative solutions together and make a positive impact in the world of technology.
 </div>
 <h2> I work with: </h2>
 <div>
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP " width="40" height="40"/>&nbsp;
   <br>
-  <h4>Machine Learning Libraries</h4>
+  <h4>Machine Learning and Deep Learning Libraries</h4>
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy"  alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://anderfernandez.com/wp-content/uploads/2021/10/Tutorial-Sklearn.jpg" title="Sklearn"  alt="Sklearn" width="40" height="40"/>&nbsp;
