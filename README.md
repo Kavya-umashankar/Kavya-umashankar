@@ -41,16 +41,16 @@ Here are some ideas to get you started:
   <img src="https://anderfernandez.com/wp-content/uploads/2021/10/Tutorial-Sklearn.jpg" title="Sklearn"  alt="Sklearn" width="40" height="40"/>&nbsp;
   <img src="https://static.javatpoint.com/tutorial/keras/images/keras.png" title="Keras"  alt="Keras" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow"  alt="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" title="matplotlib"  alt="matplotlib" width="40" height="40"/>&nbsp;
-  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" title="seaborn" alt="seaborn" width="40" height="40"/>&nbsp;
+  <img src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" title="Matplotlib"  alt="Matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
   <br>
   <h4>Data Visualization tools</h4>
   <img src="https://workforceedtech.org/wp-content/uploads/2019/03/Tableau_Logo_resized.png" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
-  
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <br>
+  <h4>Other Tools</h4>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 <hr>
 
