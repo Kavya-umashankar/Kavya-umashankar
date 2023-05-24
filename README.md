@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Kavya-umashankar/Kavya-umashankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <h1 style="font-size: 60em; font-family: bradley hand, cursive">Hello   <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="25" height="25"/>
+  </h1>
+</div>
+🔭 I’m currently working on ...
+<br>
+🌱 I’m currently learning ...
+<br>
+👯 I’m looking to collaborate on ...
+<br>
+🤔 I’m looking for help with ...
+<br>
+💬 Ask me about ...
+<br>
+📫 How to reach me: ...
+<br>
+😄 Pronouns: ...
+<hr>
+
