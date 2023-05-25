@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <hr>
 <div align="center">
-  <img src="https://media.giphy.com/media/lebpnk3qVPAjBxIKKc/giphy.gif" width="600" height="400"/>
+  <img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" width="600" height="400"/>
   <h1 style="font-size: 90em; font-family: bradley hand, cursive">Welcome to my GitHub profile!   <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="25" height="25"/>
   </h1>
 </div>
