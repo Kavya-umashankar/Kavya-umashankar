@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <hr>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/lebpnk3qVPAjBxIKKc/giphy.gif" width="600" height="400"/>
   <h1 style="font-size: 90em; font-family: bradley hand, cursive">Welcome to my GitHub profile!   <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="25" height="25"/>
   </h1>
 </div>
@@ -63,4 +63,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya-umashankar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+<h2> Connect with me on  :
+  <a href="https://www.linkedin.com/in/kavya-umashankar/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </h2>
 <hr>
