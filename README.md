@@ -59,7 +59,7 @@ Here are some ideas to get you started:
   <h2>:fire: My Stats :</h2>
  <div>
 
-<!---![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavya-umashankar&show_icons=true&theme=radical) -->
+![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavya-umashankar&show_icons=true&theme=radical) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya-umashankar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
