@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   <br>
   <h4>Data Visualization tools</h4>
   <img src="https://workforceedtech.org/wp-content/uploads/2019/03/Tableau_Logo_resized.png" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
-    <img src="[https://workforceedtech.org/wp-content/uploads/2019/03/Tableau_Logo_resized.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png?20210102182532)" title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png?20210102182532" title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;
   <br>
   <h4>Other Tools</h4>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
   <h2>:fire: My Stats :</h2>
  <div>
 
-<!-- ![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavya-umashankar&show_icons=true&theme=radical) -->
+ ![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavya-umashankar&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya-umashankar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
