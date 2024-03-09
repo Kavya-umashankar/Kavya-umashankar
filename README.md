@@ -65,6 +65,8 @@ Here are some ideas to get you started:
  ![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavya-umashankar&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya-umashankar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=Kavya-umashankar&color=blue&style=flat-square)
 </div>
 <h2> Connect with me on  :
   <a href="https://www.linkedin.com/in/kavya-umashankar/">
