@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <br>
   <br>
- Hello GitHub community! I'm excited to share my coding journey with you. As a dedicated developer, I love exploring new technologies and tackling interesting challenges. My GitHub profile is a reflection of my passion for creating efficient and scalable solutions. Feel free to browse through my projects, where you'll find my work in machine learning, data analysis, and software engineering. Let's connect, collaborate, and learn from each other as we strive for excellence in the world of coding. Together, we can make a difference one line of code at a time.
+ Hello, GitHub community! I'm excited to share my coding journey with you. As a dedicated developer, I love exploring new technologies and tackling interesting challenges. My GitHub profile reflects my passion for creating efficient and scalable solutions. Feel free to browse through my projects, where you'll find my work in machine learning, data science, and software engineering. Let's connect, collaborate, and learn from each other as we strive for excellence in the world of coding. Together, we can make a difference one line of code at a time.
 </div>
 <h2> I work with: </h2>
 <div>
